@@ -1,0 +1,6 @@
+Cusnum	Tel	Add	Name
+1	0919777888	Tainan	Jessie
+2	0919888999	Keelung	Amy
+3	0919999000	Hsingchu	Julie
+4	0920111222	Changhua	June
+5	0920222333	Taipei	Sam

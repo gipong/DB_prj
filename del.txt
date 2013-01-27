@@ -1,0 +1,6 @@
+Comnum	Tel	Add
+1	0920333444	Taichung
+2	0920444555	Keelung
+3	0920555666	Tainan
+4	0920666777	Kaohsiung
+5	0920777888	Taipei

@@ -1,0 +1,6 @@
+Empnum	Tel	Add	Name
+1	0919111222	Tainan	Allen
+2	0919222333	Taipei	Cindy
+3	0919333444	Keelung	David
+4	0919444555	Taichung	Ella
+5	0919555666	Kaohsiung	Hebe

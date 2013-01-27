@@ -1,0 +1,6 @@
+Ordnum	Name	Comnum	Goonum	Empnum
+1	Sam	3	2	1
+2	Amy	4	5	2
+3	June	5	1	3
+4	Jessie	1	3	4
+5	Julie	2	4	5
